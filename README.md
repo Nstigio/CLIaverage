@@ -1,2 +1,2 @@
 # CLIaverage
-calculate the averag of numbers enterd as imput arguments
+calculate the averag of numbers entered as input arguments
